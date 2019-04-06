@@ -7,7 +7,7 @@ But we can't find 128 printable print characters in ASCII, so it converts the bi
 
 And its encoded length is 14.29% smaller than Base64, and every 7 bytes is encoded into 8 bytes.
 
-But the file header occupies 8 bytes and is used to store some information to ensure that the md5 of the source file is the same as the md5 of the file it encodes and then decodes.
+But the file header occupies 8 bytes and is used to store some information to ensure that the source file is identical to the source file after it has been encoded and decoded.
 
 This program encoding/decoding speed is not very fast, in fact, it can be more perfect...
 
