@@ -1,7 +1,7 @@
 Base128
-=
+=======
 
-####It is a Base64 - based variant encoding.
+**It is a Base64 - based variant encoding.**
 
 But we can't find 128 printable print characters in ASCII, so it converts the binary stream to binary stream.
 
