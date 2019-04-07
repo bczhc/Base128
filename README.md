@@ -17,4 +17,5 @@ This program encoding/decoding speed is not very fast, in fact, it can be more p
 The .c file is the c language source code, Base128.exe is the compiled program, run in cmd, using:
 
 >Base128 \[-encode | -decode\] \[\[filePath\]\] \[\[DestFilePath\]\] |
+
 Base128 \[-encode | -decode\] \[\[filePath\]\]
