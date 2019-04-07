@@ -3,6 +3,8 @@ Base128
 
 **It is a Base64 - based variant encoding.**
 
+---
+
 But we can't find 128 printable print characters in ASCII, so it converts the binary stream to binary stream.
 
 And its encoded length is 14.29% smaller than Base64, and every 7 bytes is encoded into 8 bytes.
@@ -16,6 +18,7 @@ This program encoding/decoding speed is not very fast, in fact, it can be more p
 
 The .c file is the c language source code, Base128.exe is the compiled program, run in cmd, using:
 
+
 >Base128 \[-encode | -decode\] \[\[filePath\]\] \[\[DestFilePath\]\] |
 
-Base128 \[-encode | -decode\] \[\[filePath\]\]
+>Base128 \[-encode | -decode\] \[\[filePath\]\]
