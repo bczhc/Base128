@@ -1,4 +1,4 @@
-**©2018 bczhc. All rights reserved.**
+**©2019 bczhc. All rights reserved.**
 
 Base128 algorithm
 
