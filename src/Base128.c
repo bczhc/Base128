@@ -1,10 +1,15 @@
 //#define ARR_len(x) sizeof(x) / sizeof(x)[0]
 #include <time.h>
 #include "Base128Lib.h"
+#include "./color.h"
 
 int main(/*const */int argc, char *argv[]) {
     if (argc < 3) {
-        printf("%s", "Base128\nCommand [-encode | -decode] [[filePath]] [[DestFilePath]] |\n"
+        PRINT_FONT_BLU
+        PRINT_ATTR_BOL
+        printf("Base128");
+        PRINT_ATTR_REC
+        printf("%s", "\nCommand [-encode | -decode] [[filePath]] [[DestFilePath]] |\n"
                      "Command [-encode | -decode] [[filePath]]\n");
         return 'P';
     }

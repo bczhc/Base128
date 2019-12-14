@@ -1,0 +1,3 @@
+/home/zhc/code/code/C99/Base128-Encoder-and-Decoder/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhc/code/code/C99/Base128-Encoder-and-Decoder/src/cmake-build-debug/CMakeFiles/Base128.dir
+/home/zhc/code/code/C99/Base128-Encoder-and-Decoder/src/cmake-build-debug/CMakeFiles/edit_cache.dir
