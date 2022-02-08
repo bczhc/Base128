@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/Base128.dir/Base128.c.o CMakeFiles/Base128.dir/Base128Lib.c.o CMakeFiles/Base128.dir/zhc.c.o  -o Base128 
